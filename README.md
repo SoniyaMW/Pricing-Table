@@ -1,2 +1,2 @@
 # Pricing-Table
-Creating Pricing Table Using Flexbox Properties
+Creating Pricing Table Using Flexbox Properties.
